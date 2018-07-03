@@ -53,11 +53,15 @@ This file is generated! See scripts/docs_collector.py
   * <<filebeat-module-radware>>
   * <<filebeat-module-rapid7>>
   * <<filebeat-module-redis>>
+<<<<<<< HEAD
   * <<filebeat-module-santa>>
   * <<filebeat-module-sonicwall>>
   * <<filebeat-module-sophosxg>>
   * <<filebeat-module-squid>>
   * <<filebeat-module-suricata>>
+=======
+  * <<filebeat-module-squid>>
+>>>>>>> squid module init setup
   * <<filebeat-module-system>>
   * <<filebeat-module-tenable>>
   * <<filebeat-module-tomcat>>
